@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/qrcodemaker/static/css/main.40e8df0d.css",
-    "main.js": "/qrcodemaker/static/js/main.2e7f1179.js",
-    "static/js/787.f64b9e52.chunk.js": "/qrcodemaker/static/js/787.f64b9e52.chunk.js",
-    "index.html": "/qrcodemaker/index.html",
-    "main.40e8df0d.css.map": "/qrcodemaker/static/css/main.40e8df0d.css.map",
-    "main.2e7f1179.js.map": "/qrcodemaker/static/js/main.2e7f1179.js.map",
-    "787.f64b9e52.chunk.js.map": "/qrcodemaker/static/js/787.f64b9e52.chunk.js.map"
+    "main.css": "/qrcode_maker/static/css/main.40e8df0d.css",
+    "main.js": "/qrcode_maker/static/js/main.2e7f1179.js",
+    "static/js/787.f64b9e52.chunk.js": "/qrcode_maker/static/js/787.f64b9e52.chunk.js",
+    "index.html": "/qrcode_maker/index.html",
+    "main.40e8df0d.css.map": "/qrcode_maker/static/css/main.40e8df0d.css.map",
+    "main.2e7f1179.js.map": "/qrcode_maker/static/js/main.2e7f1179.js.map",
+    "787.f64b9e52.chunk.js.map": "/qrcode_maker/static/js/787.f64b9e52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40e8df0d.css",

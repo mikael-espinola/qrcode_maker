@@ -1,6 +1,6 @@
 {
   "homepage": "http://mikael-espinola.github.io/qrcode_maker",
-  "name": "qrcodemaker",
+  "name": "qrcode_maker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
